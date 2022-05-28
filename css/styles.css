@@ -55,14 +55,14 @@ a{
 
 .top-cloud{
     position:absolute;
-    right: 10rem;
-    top: 50px;
+    right: 50rem;
+    top: 250px;
 }
 
 .bottom-cloud{
     position:absolute;
-    left: 10rem;
-    top: 50px;
+    left: 50rem;
+    top: 250px;
 }
 
 .text{
